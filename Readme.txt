@@ -22,4 +22,4 @@
 注意事项：
 
 	这是为 "WsaPackage_1.7.32815.0_x64_Release-Nightly" 专门制作的版本，其他版本无法使用哦！
-	这是为了简化https://www.cnblogs.com/taylorshi/p/15459674.html中的5到10步而制作的。
+	这是为了简化 https://www.cnblogs.com/taylorshi/p/15459674.html 中的5到10步而制作的。
